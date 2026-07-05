@@ -65,6 +65,7 @@ The objective is to ensure that all critical functionalities of the application 
 - standard_user / secret_sauce.
 - locked_out_user.
 - problem_user.
+- performance_glitch_user.
 
 # 8. Roles and Responsibilities
 - QA Engineer: Test design and execution.
