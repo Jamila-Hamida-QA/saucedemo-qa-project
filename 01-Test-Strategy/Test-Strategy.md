@@ -61,6 +61,8 @@ The goal is to ensure the quality, functionality, and reliability of the applica
 - standard_user / secret_sauce
 - locked_out_user
 - problem_user
+- performance_glitch_user
+
 
 # 8. Entry Criteria
 - Application is available and stable.
